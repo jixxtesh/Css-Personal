@@ -68,8 +68,9 @@ hr{
    height: 80px;
    color: #11999E;
 }
-.web{
-    text-decoration: underline;
+.web_inside{
+    color: #964B00;
+    /* text-decoration: underline; */
 }
 
 .top-cloud{
